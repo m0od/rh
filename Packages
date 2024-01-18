@@ -31,12 +31,12 @@ Homepage: https://autotouch.net
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 8.0.11
 Filename: ./debs/com.blackwings.autotouch_8.0.11_iphoneos-arm64e.deb
-MD5sum: fdfbb5a24fc5119b382efdd58c789e3d
-SHA1: a054b50bb31861b76eb0970cf1d47a87c87a25e3
-SHA256: 70e6c2be256d05773858770f6ee90145e3f586376aecc37663dc081f9ccdde15
-SHA512: a9d87cafe69a44b0c7f8a02189e82881c6ddb1d0d7459b2dacea071a8304355b2d875e90ba25b2315229390382820667b718216f3bbf039d6493b996aeeec8e3
+MD5sum: 93fbe61e7d726501d0673fb9da69f41c
+SHA1: 5510ced030d098b3bba958a603bd0f6c7023d0ea
+SHA256: e859b59267682fb36eecad64f98c942de7ea56ab04f7105770febdfb066de0a7
+SHA512: 78359fa04c026387a2fe752ae9fdd9a81fd4ddd1f8e0158335aef1ab2228c37ab4db150d620a81e7521629db29fd3aafb42310d2d96db160910628b2c4390cb3
 Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.8011.rootless
-Size: 44463508
+Size: 44456536
 
 Package: com.mtac.ampere
 Name: Ampere
