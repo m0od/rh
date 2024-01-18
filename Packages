@@ -18,6 +18,26 @@ SHA512: 761bd644738d8c4091b098ed9ad076ff137d4b8f687db8e8fff9cf78c21169075578ecdf
 Depiction: https://m0od.github.io/xs/description.html?id=netskao.hideallbar-rootless
 Size: 5432
 
+Package: com.blackwings.autotouch.8011.rootless
+Name: AutoTouch v8.0.11 InputText rootless
+Description: Record and playback touch operations, play macro scripts automatically.
+Section: Utilities
+Depends: firmware (>= 11.0), ellekit
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Priority: optional
+Architecture: iphoneos-arm64e
+Author: BlackWings
+Homepage: https://autotouch.net
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Version: 8.0.11
+Filename: ./debs/com.blackwings.autotouch_8.0.11_iphoneos-arm64e.deb
+MD5sum: fdfbb5a24fc5119b382efdd58c789e3d
+SHA1: a054b50bb31861b76eb0970cf1d47a87c87a25e3
+SHA256: 70e6c2be256d05773858770f6ee90145e3f586376aecc37663dc081f9ccdde15
+SHA512: a9d87cafe69a44b0c7f8a02189e82881c6ddb1d0d7459b2dacea071a8304355b2d875e90ba25b2315229390382820667b718216f3bbf039d6493b996aeeec8e3
+Depiction: https://m0od.github.io/xs/description.html?id=com.blackwings.autotouch.8011.rootless
+Size: 44463508
+
 Package: com.mtac.ampere
 Name: Ampere
 Description: iOS 16 Style Battery Indicator
