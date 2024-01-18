@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html><head>
+<title>Description</title>
+<link rel='stylesheet' type='text/css' href='css/style.css'/>
+<meta name='viewport' content='width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;'/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/description.js"></script>
+<body onload="loadPackageInfo()">
+<span id="showAddRepo_" hidden><h2>BlackWings XS Repo</h2>
+	<ul>
+		<li>
+			<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://ph03nixteam.github.io/xss">
+				<img class="icon" src="images/cydia.png"/>
+				<label>Open Cydia</label>
+			</a>
+		</li>
+	</ul>
+</span>
+<span id="tweakStatusInfo">
+	<ul style="background:#c6e8ff">
+		<center>
+			<li>
+				<p id="errorInfo">Loading Description...</p>
+			</li>
+		</center>
+	</ul>
+</span>
+<span id="description_" hidden>
+	<h2>Description</h2>
+	<ul>
+		<li>
+			<p id="description"></p>
+		</li>
+	</ul>
+</span>
+
+<p style="text-align:center;">BlackWings © 2020</p>
+</body></html>
