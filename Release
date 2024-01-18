@@ -1,11 +1,11 @@
-Origin: BlackWings XS Repo
+Origin: BlackWings RootHide Repo
 Label: BlackWings
-Suite: stablen
+Suite: stable
 Version: 1.0
 Codename: BlackWings
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Components: main
-Description: BlackWings XS Repo
-MD5Sum:
- f631f72ab8c6127462765c8f12efee1d 22241 Packages
- dc9f9fd738d72d9c1234c4520311cdd9 5944 Packages.bz2
+Description: BlackWings RootHide Repo
+MD5Sum: 
+ 5102133b03645d7b43d4aa95a4e54262 2463 Packages
+ d9797f1406ed2126ec89dcb0c77ac364 1326 Packages.bz2
